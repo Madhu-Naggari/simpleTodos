@@ -16,3 +16,9 @@ button {
   justify-content: space-between;
   margin-bottom: 20px;
 }
+
+.controls {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
