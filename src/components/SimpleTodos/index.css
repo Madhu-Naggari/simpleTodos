@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffc2a0;
+}
+.box {
+  width: 100%;
+  max-width: 800px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  text-align: center;
+  padding: 30px;
+}
+.box h1 {
+  color: #ff8542;
+}
+li {
+  list-style-type: none;
+}
